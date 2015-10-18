@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data package="clientconfig" exported="2015-10-18@00:23:10" total="8">
+<cgSetting>
+	<id>4</id>
+	<key><![CDATA[contact_phone]]></key>
+	<label><![CDATA[Phone Number]]></label>
+	<xtype><![CDATA[textfield]]></xtype>
+	<description><![CDATA[]]></description>
+	<is_required></is_required>
+	<sortorder>0</sortorder>
+	<value><![CDATA[(503) 159-5326]]></value>
+	<default><![CDATA[]]></default>
+	<group>2</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+<cgSetting>
+	<id>5</id>
+	<key><![CDATA[contact_email]]></key>
+	<label><![CDATA[Email Address]]></label>
+	<xtype><![CDATA[textfield]]></xtype>
+	<description><![CDATA[]]></description>
+	<is_required></is_required>
+	<sortorder>0</sortorder>
+	<value><![CDATA[info@vvrmanager.com]]></value>
+	<default><![CDATA[]]></default>
+	<group>2</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+<cgSetting>
+	<id>6</id>
+	<key><![CDATA[contact_address]]></key>
+	<label><![CDATA[Address]]></label>
+	<xtype><![CDATA[textfield]]></xtype>
+	<description><![CDATA[]]></description>
+	<is_required></is_required>
+	<sortorder>0</sortorder>
+	<value><![CDATA[420 N La Sale, Chicago, 60654]]></value>
+	<default><![CDATA[]]></default>
+	<group>2</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+<cgSetting>
+	<id>7</id>
+	<key><![CDATA[footer_headline]]></key>
+	<label><![CDATA[Headline]]></label>
+	<xtype><![CDATA[textfield]]></xtype>
+	<description><![CDATA[]]></description>
+	<is_required></is_required>
+	<sortorder>0</sortorder>
+	<value><![CDATA[Footer Headline]]></value>
+	<default><![CDATA[]]></default>
+	<group>3</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+<cgSetting>
+	<id>1</id>
+	<key><![CDATA[social_twitter]]></key>
+	<label><![CDATA[Twitter URL]]></label>
+	<xtype><![CDATA[textfield]]></xtype>
+	<description><![CDATA[]]></description>
+	<is_required></is_required>
+	<sortorder>10</sortorder>
+	<value><![CDATA[twitter]]></value>
+	<default><![CDATA[]]></default>
+	<group>1</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+<cgSetting>
+	<id>8</id>
+	<key><![CDATA[footer_content]]></key>
+	<label><![CDATA[Content]]></label>
+	<xtype><![CDATA[textarea]]></xtype>
+	<description><![CDATA[]]></description>
+	<is_required></is_required>
+	<sortorder>10</sortorder>
+	<value><![CDATA[Dictum vestibulum volutpat a ridiculus eros elementum gravida habitasse vulputate suspendisse a vel vehicula parturient.]]></value>
+	<default><![CDATA[]]></default>
+	<group>3</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+<cgSetting>
+	<id>2</id>
+	<key><![CDATA[social_facebook]]></key>
+	<label><![CDATA[Facebook URL]]></label>
+	<xtype><![CDATA[textfield]]></xtype>
+	<description><![CDATA[]]></description>
+	<is_required></is_required>
+	<sortorder>20</sortorder>
+	<value><![CDATA[facebook]]></value>
+	<default><![CDATA[]]></default>
+	<group>1</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+<cgSetting>
+	<id>3</id>
+	<key><![CDATA[social_gplus]]></key>
+	<label><![CDATA[Google+ URL]]></label>
+	<xtype><![CDATA[textfield]]></xtype>
+	<description><![CDATA[]]></description>
+	<is_required></is_required>
+	<sortorder>30</sortorder>
+	<value><![CDATA[google]]></value>
+	<default><![CDATA[]]></default>
+	<group>1</group>
+	<options><![CDATA[]]></options>
+</cgSetting>
+</data>

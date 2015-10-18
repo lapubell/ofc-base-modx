@@ -1,3 +1,5 @@
+[[$Footer]]
+
 [[$Analytics]]
 
 <script>
