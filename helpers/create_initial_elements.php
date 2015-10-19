@@ -96,37 +96,43 @@ echo "\nCreating chunks:\n\n";
 $modx->runProcessor('element/chunk/create',array(
    'name' => 'HTML Head',
    'static' => 1,
-   'static_file' => 'assets/repo/chunks/HTML_head.tpl'
+   'static_file' => 'assets/repo/chunks/HTML_head.tpl',
+   'source' => 1,
 ));
 echo "Created HTML Head\n";
 $modx->runProcessor('element/chunk/create',array(
    'name' => 'HTML Foot',
    'static' => 1,
-   'static_file' => 'assets/repo/chunks/HTML_foot.tpl'
+   'static_file' => 'assets/repo/chunks/HTML_foot.tpl',
+   'source' => 1,
 ));
 echo "Created HTML Foot\n";
 $modx->runProcessor('element/chunk/create',array(
    'name' => 'Analytics',
    'static' => 1,
-   'static_file' => 'assets/repo/chunks/Analytics.tpl'
+   'static_file' => 'assets/repo/chunks/Analytics.tpl',
+   'source' => 1,
 ));
 echo "Created Analytics\n";
 $modx->runProcessor('element/chunk/create',array(
    'name' => 'Header',
    'static' => 1,
-   'static_file' => 'assets/repo/chunks/Header.tpl'
+   'static_file' => 'assets/repo/chunks/Header.tpl',
+   'source' => 1,
 ));
 echo "Created Header\n";
 $modx->runProcessor('element/chunk/create',array(
    'name' => 'Footer',
    'static' => 1,
-   'static_file' => 'assets/repo/chunks/Footer.tpl'
+   'static_file' => 'assets/repo/chunks/Footer.tpl',
+   'source' => 1,
 ));
 echo "Created Footer\n";
 $modx->runProcessor('element/chunk/create',array(
    'name' => 'Slider Slide cycle2',
    'static' => 1,
-   'static_file' => 'assets/repo/chunks/Slider_Slide_cycle2.tpl'
+   'static_file' => 'assets/repo/chunks/Slider_Slide_cycle2.tpl',
+   'source' => 1,
 ));
 echo "Created Cycle2 Slider Tpl\n";
 
@@ -135,7 +141,7 @@ echo "Created Cycle2 Slider Tpl\n";
 
 
 // TEMPLATES /////////////////////////////////////////////////////////////
-echo "\nCreating templates:\n\n";
+echo "\nCreating/Updating templates:\n\n";
 $modx->runProcessor('element/template/update',array(
     'id' => 1,
     'templatename' => 'Home Page Template',
@@ -143,15 +149,17 @@ $modx->runProcessor('element/template/update',array(
     'content' => '',
     'static' => 1,
     'static_file' => 'assets/repo/templates/home.tpl',
+    'source' => 1,
     'icon' => 'icon-home icon'
 ));
-echo "Created Home Page Template\n";
+echo "Updated Home Page Template\n";
 $modx->runProcessor('element/template/create',array(
     'templatename' => 'Standard Page Template',
     'description' => 'Template for all standard pages',
     'content' => '',
     'static' => 1,
     'static_file' => 'assets/repo/templates/standard.tpl',
+    'source' => 1,
 ));
 echo "Created Standard Page Template\n";
 
@@ -166,6 +174,7 @@ $modx->runProcessor('element/snippet/create',array(
     'snippet' => '',
     'static' => 1,
     'static_file' => 'assets/repo/snippets/year.tpl',
+    'source' => 1,
 ));
 echo "Created year Snippet\n";
 
