@@ -28,6 +28,10 @@
             </div>
 
         </div>
+
+        <div class='row'>
+            <div id='footer-copy'>&copy; [[!year]]. All Rights Reserved.</div>
+        </div>
     </div>
 
 </footer>

@@ -9,8 +9,9 @@
     <div class='container'>
         <div class='row'>
 
-            [[*content]]
-
+            <div class='main-content-wrapper'>
+                [[*content]]
+            </div>
         </div>
     </div>
 
