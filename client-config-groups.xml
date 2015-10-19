@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data package="clientconfig" exported="2015-10-18@00:26:42" total="3">
 <cgGroup>
+<cgGroup>
+	<id>1</id>
+	<label><![CDATA[Social Media]]></label>
+	<description><![CDATA[Social Media URLs]]></description>
+	<sortorder>10</sortorder>
+</cgGroup>
 	<id>2</id>
 	<label><![CDATA[Contact Info]]></label>
 	<description><![CDATA[]]></description>
@@ -11,11 +17,5 @@
 	<label><![CDATA[Footer]]></label>
 	<description><![CDATA[]]></description>
 	<sortorder>0</sortorder>
-</cgGroup>
-<cgGroup>
-	<id>1</id>
-	<label><![CDATA[Social Media]]></label>
-	<description><![CDATA[Social Media URLs]]></description>
-	<sortorder>10</sortorder>
 </cgGroup>
 </data>

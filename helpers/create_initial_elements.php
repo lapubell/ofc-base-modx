@@ -136,15 +136,20 @@ echo "Created Cycle2 Slider Tpl\n";
 
 // TEMPLATES /////////////////////////////////////////////////////////////
 echo "\nCreating templates:\n\n";
-$modx->runProcessor('element/template/create',array(
-    'name' => 'Home Page',
+$modx->runProcessor('element/template/update',array(
+    'id' => 1,
+    'templatename' => 'Home Page Template',
+    'description' => 'Template for the home page',
+    'content' => '',
     'static' => 1,
     'static_file' => 'assets/repo/templates/home.tpl',
     'icon' => 'icon-home icon'
 ));
 echo "Created Home Page Template\n";
 $modx->runProcessor('element/template/create',array(
-    'name' => 'Standard Page',
+    'templatename' => 'Standard Page Template',
+    'description' => 'Template for all standard pages',
+    'content' => '',
     'static' => 1,
     'static_file' => 'assets/repo/templates/standard.tpl',
 ));
@@ -158,6 +163,7 @@ echo "Created Standard Page Template\n";
 echo "\nCreating snippets:\n\n";
 $modx->runProcessor('element/snippet/create',array(
     'name' => 'year',
+    'snippet' => '',
     'static' => 1,
     'static_file' => 'assets/repo/snippets/year.tpl',
 ));
