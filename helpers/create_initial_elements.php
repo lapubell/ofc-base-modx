@@ -173,7 +173,7 @@ $modx->runProcessor('element/snippet/create',array(
     'name' => 'year',
     'snippet' => '',
     'static' => 1,
-    'static_file' => 'assets/repo/snippets/year.tpl',
+    'static_file' => 'assets/repo/snippets/year.snippet.php',
     'source' => 1,
 ));
 echo "Created year Snippet\n";
