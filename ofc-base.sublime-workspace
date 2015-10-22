@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"make",
+				"make-xs-column"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
 				"back",
 				"background-color"
 			],
@@ -268,10 +276,6 @@
 				"documentation_video"
 			],
 			[
-				"make",
-				"make-md-column"
-			],
-			[
 				"assis",
 				"assistant_properties"
 			],
@@ -384,10 +388,6 @@
 				"beers_with_recipes"
 			],
 			[
-				"inl",
-				"inline-block"
-			],
-			[
 				"list",
 				"list-style-type"
 			],
@@ -415,6 +415,70 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "css/main.less",
+			"settings":
+			{
+				"buffer_size": 184,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "helpers/create_initial_elements.php",
+			"settings":
+			{
+				"buffer_size": 5262,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client-config-groups.xml",
+			"settings":
+			{
+				"buffer_size": 552,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/home.tpl",
+			"settings":
+			{
+				"buffer_size": 1306,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lapubell/programming/modx/demo/core/model/modx/processors/element/chunk/create.class.php",
+			"settings":
+			{
+				"buffer_size": 1316,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lapubell/programming/modx/demo/core/model/modx/processors/element/template/create.class.php",
+			"settings":
+			{
+				"buffer_size": 3431,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lapubell/programming/modx/demo/core/model/modx/processors/element/template/update.class.php",
+			"settings":
+			{
+				"buffer_size": 3462,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lapubell/programming/modx/demo/core/model/modx/processors/element/snippet/create.class.php",
+			"settings":
+			{
+				"buffer_size": 1365,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -501,10 +565,37 @@
 	},
 	"expanded_folders":
 	[
-		"/home/lapubell/programming/github/ofc-base"
+		"/home/lapubell/programming/modx/demo/assets/repo",
+		"/home/lapubell/programming/modx/demo/assets/repo/chunks",
+		"/home/lapubell/programming/modx/demo/assets/repo/css",
+		"/home/lapubell/programming/modx/demo/assets/repo/helpers",
+		"/home/lapubell/programming/modx/demo/assets/repo/snippets",
+		"/home/lapubell/programming/modx/demo/assets/repo/templates"
 	],
 	"file_history":
 	[
+		"/home/lapubell/programming/modx/demo/assets/repo/client-config-groups.xml",
+		"/home/lapubell/programming/modx/demo/assets/repo/chunks/Slider_Slide_cycle2.tpl",
+		"/home/lapubell/programming/modx/demo/config.core.php",
+		"/home/lapubell/programming/modx/demo/assets/repo/templates/standard.tpl",
+		"/home/lapubell/programming/modx/demo/assets/repo/chunks/Footer.tpl",
+		"/home/lapubell/programming/modx/demo/assets/repo/css/nav.less",
+		"/home/lapubell/programming/modx/demo/assets/repo/css/home.less",
+		"/home/lapubell/programming/modx/demo/assets/repo/chunks/HTML_head.tpl",
+		"/home/lapubell/programming/modx/demo/assets/repo/css/footer.less",
+		"/home/lapubell/programming/modx/demo/assets/repo/templates/home.tpl",
+		"/home/lapubell/programming/modx/demo/assets/repo/README.md",
+		"/home/lapubell/programming/modx/demo/assets/repo/chunks/Header.tpl",
+		"/home/lapubell/programming/modx/demo/assets/repo/helpers/clear_cache.php",
+		"/home/lapubell/programming/modx/demo/assets/repo/css/standard.less",
+		"/home/lapubell/programming/modx/demo/assets/repo/css/global.less",
+		"/home/lapubell/programming/modx/demo/assets/repo/css/style.css",
+		"/home/lapubell/programming/modx/demo/assets/repo/chunks/HTML_foot.tpl",
+		"/home/lapubell/programming/modx/demo/assets/repo/bower_components/bootstrap/less/variables.less",
+		"/home/lapubell/programming/modx/demo/assets/repo/css/variables.less",
+		"/home/lapubell/programming/modx/demo/assets/repo/bower_components/bootstrap/less/bootstrap.less",
+		"/home/lapubell/programming/modx/demo/assets/repo/bower_components/bootstrap/less/type.less",
+		"/home/lapubell/programming/modx/demo/assets/repo/.gitignore",
 		"/home/lapubell/programming/php/elc_event/eventr/HTML/index.html",
 		"/home/lapubell/programming/php/vacation/resources/views/member/checklist/create.blade.php",
 		"/home/lapubell/programming/php/vacation/resources/views/member/checklist/edit.blade.php",
@@ -610,29 +701,7 @@
 		"/home/lapubell/programming/php/vacation/resources/assets/less/layouts/sidebarWithSplit.less",
 		"/home/lapubell/programming/php/vacation/config/mail.php",
 		"/home/lapubell/programming/php/vacation/storage/logs/laravel-2015-07-09.log",
-		"/home/lapubell/programming/php/vacation/resources/views/member/property/contract.blade.php",
-		"/home/lapubell/programming/php/vacation/resources/assets/less/variables.less",
-		"/home/lapubell/programming/php/vacation/storage/logs/.gitignore",
-		"/home/lapubell/programming/php/vacation/database/migrations/2015_04_13_185418_create_articles_table.php",
-		"/home/lapubell/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-		"/home/lapubell/programming/php/vacation/app/Commands/CreateMaintenanceTeamMemberCommand.php",
-		"/home/lapubell/programming/php/vacation/resources/views/member/assistant/edit.blade.php",
-		"/home/lapubell/programming/php/vacation/app/Exceptions/CannotCreateAssistantException.php",
-		"/home/lapubell/programming/php/vacation/app/Exceptions/CannotCreatePropertyException.php",
-		"/home/lapubell/programming/php/vacation/database/migrations/2015_04_13_184924_create_properties_table.php",
-		"/home/lapubell/programming/php/vacation/resources/views/member/property/list.blade.php",
-		"/home/lapubell/programming/php/vacation/app/Http/Controllers/PublicContentController.php",
-		"/home/lapubell/programming/php/vacation/database/seeds/IndustrySeeder.php",
-		"/home/lapubell/programming/php/vacation/resources/views/dashboards/member.blade.php",
-		"/home/lapubell/programming/php/vacation/database/migrations/2015_06_19_131925_create_admin_log_table.php",
-		"/home/lapubell/programming/php/vacation/resources/views/partials/documentation.blade.php",
-		"/home/lapubell/programming/php/vacation/resources/assets/less/layouts/main.less",
-		"/home/lapubell/programming/php/vacation/resources/views/partials/nav.blade.php",
-		"/home/lapubell/programming/php/vacation/resources/assets/less/layouts/error.less",
-		"/home/lapubell/programming/php/vacation/resources/assets/less/common.less",
-		"/home/lapubell/programming/php/vacation/resources/views/auth/login.blade.php",
-		"/home/lapubell/programming/php/vacation/resources/views/auth/register.blade.php",
-		"/home/lapubell/programming/php/vacation/resources/views/auth/password.blade.php"
+		"/home/lapubell/programming/php/vacation/resources/views/member/property/contract.blade.php"
 	],
 	"find":
 	{
@@ -650,6 +719,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"static_file",
+			"echo",
+			"head",
+			"Head",
+			"next",
+			"</a>",
 			"event",
 			"nulla e",
 			"sponsor-logo",
@@ -771,13 +846,7 @@
 			"601px",
 			"<img ",
 			"<div id='",
-			"@dark-orange",
-			"@orange",
-			"orange-",
-			"    <div class='container'>\n        <div class='row'>\n",
-			"content-",
-			"web",
-			"import "
+			"@dark-orange"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -816,8 +885,244 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "css/main.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "helpers/create_initial_elements.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4910,
+								4910
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4756.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client-config-groups.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								230
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/home.tpl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/lapubell/programming/modx/demo/core/model/modx/processors/element/chunk/create.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/lapubell/programming/modx/demo/core/model/modx/processors/element/template/create.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/lapubell/programming/modx/demo/core/model/modx/processors/element/template/update.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/lapubell/programming/modx/demo/core/model/modx/processors/element/snippet/create.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -873,6 +1178,42 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"radme",
+				"README.md"
+			],
+			[
+				"foot",
+				"css/footer.less"
+			],
+			[
+				"htmlh",
+				"chunks/HTML_head.tpl"
+			],
+			[
+				"hom",
+				"templates/home.tpl"
+			],
+			[
+				"hea",
+				"chunks/HTML_head.tpl"
+			],
+			[
+				"head",
+				"chunks/HTML_head.tpl"
+			],
+			[
+				"boot",
+				"bower_components/bootstrap/less/bootstrap.less"
+			],
+			[
+				"main",
+				"css/main.less"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
 			[
 				"checkli",
 				"app/Http/Controllers/ChecklistController.php"
@@ -1202,10 +1543,6 @@
 				"resources/views/layouts/sidebar.blade.php"
 			],
 			[
-				"head",
-				"resources/views/partials/head.blade.php"
-			],
-			[
 				"partials/hea",
 				"resources/views/partials/head.blade.php"
 			],
@@ -1352,38 +1689,6 @@
 			[
 				"member/assis",
 				"resources/views/member/assistant/create.blade.php"
-			],
-			[
-				"createpropert",
-				"database/migrations/2015_04_13_184924_create_properties_table.php"
-			],
-			[
-				"member/pr",
-				"resources/views/member/property/overview.blade.php"
-			],
-			[
-				"propertyc",
-				"app/Http/Controllers/PropertyController.php"
-			],
-			[
-				"publiccon",
-				"app/Http/Controllers/PublicContentController.php"
-			],
-			[
-				"assis",
-				"app/Http/Controllers/AssistantController.php"
-			],
-			[
-				"adminl",
-				"app/AdminLog.php"
-			],
-			[
-				"dashboards/ad",
-				"resources/views/dashboards/administrator.blade.php"
-			],
-			[
-				"handl",
-				"app/Exceptions/Handler.php"
 			]
 		],
 		"width": 0.0
@@ -1413,8 +1718,8 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 443.0,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
